@@ -20,9 +20,15 @@ body{
 
 .conteudo{
     width: 90%;
+    display: flex;
+    padding: 40px;
 }
 
 .conteudo img{
     width: 300px;
-    border-radius: 200px;
+    border-radius: 200px;/
+}
+
+.lesquerdo{
+    text-align: center;
 }
